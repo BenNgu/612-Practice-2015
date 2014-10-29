@@ -4,6 +4,11 @@
 This is mostly for attendance
 
 Authors:
+
 Zack Alfakir
+
+Benjamin Ward
+
 David Fiumano
+
 Champ Dietzel
