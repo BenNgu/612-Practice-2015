@@ -1,0 +1,3 @@
+Trying to get Git working today.
+Zach taught us some stuff about c++
+HW: Read and practice basics of c++

@@ -1,0 +1,12 @@
+C++ is a revision of C (which is the third generation).
+
+We don't use D because it isn't standard on devices.
+
+Kernel, standard libraries, and compliers are important.
+
+Git is prefered because of the easy creation of branches 
+and ablity to remember who made what changes.
+
+Chrome is written in Python.
+
+HW: Project Euler 1-5
