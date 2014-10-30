@@ -1,0 +1,43 @@
++====================================+
+| /--\  /\/\  |--\  /--\  ---  \   / |
+| |    /    \ |  |  |      |    \ /  |
+| \--/ |    | |--/  \--/  ---    V   |
++====================================+
+       *****Version 1.0*****
+
+Intro:
+
+Get ready to raise a great civilization!
+Build an army, raise an empire, and conquer
+the world! Using a command prompt style gameplay,
+you will be addicted to you own CIVILIZATION!
+
+How to play:
+
+This is a command prompt style game.
+Press space to wake up the command prompt.
+Type in a command (don't press space again!)
+and press enter.
+It may require you to answer futher questions.
+
+Commands:
+
+get(worker name) - get a worker with resources. (EX: getFarmer)
+sell(worker name) - sell a worker for resouces. (EX: sellLogger)
+attack - attack other civilization for resouces.
+
+Workers:
+
+Farmer - Increases food production, cost 50 food.
+Logger - Increases wood production, cost 50 food.
+Miner - Increases gold production, cost 50 food.
+Soldier - Increases Attack and Defense, cost 50 food & 10 wood.
+Wall - Doesn't increase population, increases Defense, cost 100 wood.
+
+Mechanics:
+
+Each farmer produces 3 food per second, but consume 1 themselves.
+Each worker(except for wall)  consume 1 food per second, so there 
+should be as many farmers as other workers. Attack and Defence are 
+important for protecting resouces. Walls are better than Soldiers, 
+but doesn't increase attack.

@@ -1,0 +1,5 @@
+We went over pointers
+and review the robocode
+from last year.
+
+HW: Write a class with stuff 
