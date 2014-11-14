@@ -1,0 +1,11 @@
+Today we went over classes.
+the header file is used to define everything
+the int main() and other funtions will need.
+Class are like objects and header files define them
+for the int main() function to use.
+
+We coded an example for arduino.
+The code is in practice/toneClass.h
+
+
+
