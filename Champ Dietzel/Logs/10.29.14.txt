@@ -1,0 +1,7 @@
+delete stuff
+constructors
+destructors
+struct
+enum
+
+even more stuff I pretty much already know
